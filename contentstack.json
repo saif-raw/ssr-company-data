@@ -9,8 +9,14 @@
 					"title": "Surfboard Ventures",
 					"href": "/"
 				},
-				{ "title": "Raw Engineering", "href": "/raw" },
-				{ "title": "Contentstack", "href": "/contentstack" }
+				{ 
+					"title": "Raw Engineering",
+					"href": "/raw" 
+				},
+				{
+					"title": "Contentstack",
+					"href": "/contentstack" 
+				}
 			]
 		}
 	],
@@ -21,10 +27,6 @@
 				"banner_content": "Contentstack brings business and technology teams together to deliver personalized, omnichannel digital experiences.",
 				"banner_image": {
 					"url":"https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt66f4449fa1b24162/5f1a2be22ac1577a44a8bfd7/hero-carousel-3.jpg"
-				},
-				"primary_cta": {
-					"text": "Try for Free",
-					"link": "/try-for-free/"
 				},
 				"secondary_cta": {
 					"text": "Request a Demo",
@@ -75,103 +77,6 @@
 					"url": "https://images.contentstack.io/v3/assets/blt137524604e62b5cb/bltdfe4d4dd917540a1/5eeb4f89146cc4629e1ad3fd/Instagram.svg",
 					"title": "Instagram",
 					"link": "https://github.com/contentstack"
-				}
-			],
-			"footer_links": [
-				{
-					"title": "Product",
-					"productLinks": [
-						{
-							"link": "/features/",
-							"title": "Features"
-						},
-						{
-							"link": "/business-cms/",
-							"title": "For Business"
-						},
-						{
-							"link": "/developers-cms/",
-							"title": "For IT & Developers"
-						},
-						{
-							"link": "/integrations/",
-							"title": "Integrations"
-						},
-						{
-							"link": "/roi-calculator/",
-							"title": "ROI Calculator"
-						},
-						{
-							"link": "/pricing/",
-							"title": "Pricing"
-						},
-						{
-							"link": "/customer-success",
-							"title": "Customer Success"
-						}
-					]
-				},
-				{
-					"title": "Users",
-					"usersLinks": [
-						{
-							"link": "/docs/developers/#development-resources-and-sdks",
-							"title": "Supported Platforms"
-						},
-						{
-							"link": "/faqs/",
-							"title": "FAQs"
-						},
-						{ "link": "/trust/", "title": "Trust" },
-						{
-							"link": "https://status.contentstack.com/",
-							"title": "System Status"
-						}
-					]
-				},
-				{
-					"title": "Education",
-					"educationLinks": [
-						{
-							"link": "/resources/",
-							"title": "Customer Resources"
-						},
-						{
-							"link": "/cms-guides/",
-							"title": "CMS Guides"
-						},
-						{ "link": "/blog/", "title": "Blog" },
-						{
-							"link": "/docs/",
-							"title": "Docs"
-						}
-					]
-				},
-				{
-					"title": "Comapny",
-					"companyLinks": [
-						{
-							"link": "/about/",
-							"title": "About"
-						},
-						{
-							"link": "/company/news/",
-							"title": "News"
-						},
-						{ "link": "/company/press/", "title": "Press" },
-						{
-							"link": "/company/careers/",
-							"title": "Careers"
-						},
-						{
-							"link": "/partners/become-a-partner/",
-							"title": "Become a Partner"
-						},
-						{
-							"link": "/company/contact-us/",
-							"title": "Contact Us"
-						}
-					]
 				}
 			],
 			"bottom_links": [
