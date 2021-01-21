@@ -21,6 +21,34 @@
 				"title": "The Entrepreneur’s Surfboard",
 				"description": "Entrepreneurship isn’t just about the end game. It’s about the journey. There are ups and downs. Your resilience stands tall against the roughest seas. Sometimes you prevail. Sometimes you wipe out. We are here to help remarkable entrepreneurs to “just keep paddling” and provide the courage they need to ride the highest of waves."
 			},
+			
+			"our_portfolio_companies" : {
+				"title" : "Our Portfolio Companies",
+				"image-url" : "https://images.contentstack.io/v3/assets/blt137524604e62b5cb/blt14ab38a8eb6d7a52/5ff2c7b38884c20ac3ca5d53/Our-Portfolio-Companies-Graphic@3x.png?auto=webp&quality=100&format=pjpg",
+				"portfolio" : [{
+					"title" : "Raw Engineering",
+					"description" : "Raw Engineering has been trusted for more than a decade by the world’s most innovative startups, sports franchises and leading Fortune 500 companies for Web, Mobile and DevOps solutions and services."
+				},
+				{
+					"title" : "Contentstack",
+					"description" : "Contentstack is the leading API-first content hub at the intersection of CMS (content management systems) and DXP (digital experience platforms) powering modernized digital experiences."
+				},
+				{
+					"title" : "Built.io",
+					"description" : "Acquired in 2018 by German software powerhouse, Software AG, Built.io Flow is an intelligent Integration Platform-as-a-Service (iPaaS) to power business workflows."
+				},
+				{
+					"title" : "Education Basics",
+					"description" : "Education Basics (edbā) offers an all-in-one, next-gen education management system so institutes can focus more on delivering value to students, and less on daily administrative tasks."
+				},
+				{
+					"title" : "iRobokid",
+					"description" : "iRobokid is an educational organisation specialising in STEM Education through Robotics, Coding, 3D printing, Electrics and Electronics."
+				}
+			]
+			},
+			
+			
 			"philosophy_section": {
 				"title": "Our Philosophy",
 				"philosophy": [
